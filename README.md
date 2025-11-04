@@ -1,3 +1,2 @@
 # DSC180A-Methodology-3
-Haily Vuong
-havuong@ucsd.edu
+Haily Vuong and Hannah Lee
